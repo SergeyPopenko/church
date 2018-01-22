@@ -1,0 +1,20 @@
+{
+  "name": "Rise19",
+  "short_name": "Rise19",
+  "description": "",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "orientation": "any",
+  "theme_color": "#121212",
+  "background_color": "#fdfbfb",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg"
+    }
+  ]
+}

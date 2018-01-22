@@ -1,0 +1,22 @@
+@import "variables.scss";
+
+@import "mixins/mediaquery.scss";
+@import "mixins/title.scss";
+@import "mixins/wrap.scss";
+@import "mixins/visually-hidden.scss";
+
+@import "global/normalize.scss";
+@import "global/global-scaffolding.scss";
+
+@import "../fonts/font.scss";
+
+@import "../_blocks/btn/btn.scss";
+@import "../_blocks/header/header.scss";
+@import "../_blocks/footer/footer.scss";
+
+
+
+
+// @import "../_blocks/slick/slick.scss";
+
+

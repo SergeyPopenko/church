@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+
+  font-size: 14px;
+}
+
+body {
+  background: $bg;
+
+  color: $col;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+.visually-hidden {
+  @include visually-hidden;
+}
+
+.body-popup {
+  overflow: hidden;
+}

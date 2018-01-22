@@ -1,0 +1,6 @@
+@mixin title($margin: 0, $padding:0 , $text-align: center, $font-size: 30px, $font-weight: 700, $line-height: 1, $font-family: $font-main){
+  font: $font-weight $font-size/$line-height $font-family;
+  margin: $margin;
+  text-align: $text-align;
+  padding: $padding;
+}
